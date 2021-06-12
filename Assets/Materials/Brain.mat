@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Brain
+  m_Shader: {fileID: -6465566751694194690, guid: 6b4dbdcc44c0d814d947df1f9aa034f1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_16EB0B60: 0.25
+    - Vector1_8E362D5A: 10
+    m_Colors:
+    - Color_39C6FDC8: {r: 0.16862741, g: 0.17647055, b: 0.2588235, a: 1}
+    - Color_69AB6D40: {r: 2.3664923, g: 0.5203804, b: 2.2306988, a: 1}
+  m_BuildTextureStacks: []
